@@ -7,6 +7,6 @@ object Hello extends App {
 
 object HelloMain {
   def main(args: Array[String]) {
-    println("Hello")
+    println("HelloMain")
   }
 }
